@@ -141,6 +141,4 @@ git clone https://github.com/your-username/project-name.git
 **Vaibhavi Prabhu**
 Data Analytics Project
 
----
 
-If you want, I can also give you a **🔥 stronger “GitHub-impressive” README version** that recruiters immediately notice (with badges, visuals, and better structure).
